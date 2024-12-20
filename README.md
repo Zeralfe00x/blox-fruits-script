@@ -31,7 +31,7 @@ Say goodbye to grinding and hello to effortless gameplay. Our tool is crafted fo
 
 ## 🛠️ **How to Get Started?**  
 
-1. **[Download the Script](https://github.com/YourGitHubUsername/YourRepoName)**  
+1. **[Download the Script]()**  
    Secure and easy access to the latest version.  
 
 2. **Inject the Script**  
@@ -46,8 +46,7 @@ Say goodbye to grinding and hello to effortless gameplay. Our tool is crafted fo
 
 ## ✨ **Community Love**  
 
-⭐ **Star this repository** if you enjoy the script.  
-💬 Share your feedback and ideas in the [Issues section](https://github.com/YourGitHubUsername/YourRepoName/issues).  
+⭐ **Star this repository** if you enjoy the script.   
 🤝 Join our vibrant community for updates and tips!  
 
 ---
